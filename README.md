@@ -17,7 +17,7 @@
 <div align="left">
   <h1 id="sobre"> ✅ Sobre o projeto </h1>
   <p>
-    É um projeto que eu desenvolvi para apliar meus conhecimentos na programação, e me desenvolver cada vez mais como programador! 
+    É uma página que eu desenvolvi contendo top 10 filmes clichês para assistir, visando ampliar meus conhecimentos na programação e me desenvolver cada vez mais como programador! 
   </p>
 </div>
 
